@@ -7,3 +7,6 @@ Thumbs.db
 /public
 /resources
 .hugo_build.lock
+static/uploads/TextbookErrata.aux
+static/uploads/TextbookErrata.log
+static/uploads/TextbookErrata.synctex.gz
