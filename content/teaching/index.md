@@ -12,7 +12,6 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
-  
 
 ---
 
@@ -26,8 +25,8 @@ header:
 
 #### The University of Pennsylvania
 
-* Summer 2022-- Stat 1110: Introductory Statistics (Online)  
-  {{% staticref "uploads/Summer2022_Stat1110_Evals.pdf" %}}Evaluations{{% /staticref %}}
+* Summer 2022-- Stat 1110: Introductory Statistics (Online)
+{{% staticref "uploads/Summer2022_Stat1110_Evals.pdf" "newtab" %}}Evaluations{{% /staticref %}}
 
 ### Courses TA'ed previously:
 
@@ -37,6 +36,12 @@ header:
 * Fall 2021--  Stat 111: Introductory Statistics
 
 ### Yale
+
+#### 2017-2019 as an Undergraduate Learning Assistant
+* Stat 242: Theory of Statistics
+* Stat 262: Computational Tools for Data Science
+* Stat 361: Data Analysis
+* Stat 365: Data Mining and Machine Learning
 
 
 
