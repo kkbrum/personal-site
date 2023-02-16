@@ -23,17 +23,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-# - icon: graduation-cap
-#   icon_pack: fas
-#   link: https://scholar.google.com/citations?hl=en&user=n75XOE4AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/kkbrum
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/katherine-brumberg-6730a7148/
+# - icon: graduation-cap
+#   icon_pack: fas
+#   link: https://scholar.google.com/citations?hl=en&user=n75XOE4AAAAJ
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
