@@ -1,6 +1,6 @@
 ---
 title: "Introductory Statistics for Data Analysis"
-date: 2023-05-13
+date: "2023-05-13"
 authors: 
 - Warren Ewens
 - admin
