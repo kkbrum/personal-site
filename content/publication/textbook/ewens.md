@@ -1,6 +1,6 @@
 ---
 title: "Introductory Statistics for Data Analysis"
-date: 2022-12-27
+date: 2023-05-13
 authors: 
 - Warren Ewens
 - admin
@@ -9,8 +9,9 @@ abstract: "This book describes the probability theory associated with frequently
 featured: true
 publication: 
 links: 
+- name: Book
+  url: https://link.springer.com/book/10.1007/978-3-031-28189-1
 - name: Errata
   url: uploads/TextbookErrata.pdf
 ---
 
-This book is expected to be published in May of 2023.
