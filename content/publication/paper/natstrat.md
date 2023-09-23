@@ -16,7 +16,7 @@ publishDate: "2022-05-17T00:00:00Z"
 slides: 
 summary: 
 tags:
-title: Using randomized rounding of linear programs to obtain unweighted natural strata that balance many covariates
+title: Using Randomized Rounding of Linear Programs to Obtain Unweighted Natural Strata That Balance Many Covariates
 url_code: https://cran.r-project.org/web/packages/natstrat/index.html
 url_dataset: ""
 url_pdf: 

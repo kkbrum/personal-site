@@ -15,18 +15,13 @@ header:
 
 ---
 
-### Current and future courses:
+### Courses taught previously:
 
 #### The University of Pennsylvania
 
 * Summer 2023-- Stat 1110: Introductory Statistics (Online)
 {{% staticref "uploads/Summer2023_Stat1110_Syllabus.pdf" "newtab" %}}Syllabus{{% /staticref %}}
 {{% staticref "uploads/Summer2023_Stat1110_Evals.pdf" "newtab" %}}Evaluations{{% /staticref %}}
-
-### Courses taught previously:
-
-#### The University of Pennsylvania
-
 * Summer 2022-- Stat 1110: Introductory Statistics (Online)
 {{% staticref "uploads/Summer2022_Stat1110_Syllabus.pdf" "newtab" %}}Syllabus{{% /staticref %}}
 {{% staticref "uploads/Summer2022_Stat1110_Evals.pdf" "newtab" %}}Evaluations{{% /staticref %}}

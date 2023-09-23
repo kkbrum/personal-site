@@ -18,7 +18,7 @@ publishDate: "2023-01-17T00:00:00Z"
 slides: 
 summary: 
 tags:
-title: Using natural strata when examining unmeasured biases in an observational study of neurological side effects of antibiotics
+title: Using Natural Strata When Examining Unmeasured Biases in an Observational Study of Neurological Side Effects of Antibiotics
 url_code: https://cran.r-project.org/web/packages/natstrat/index.html
 url_dataset: ""
 url_pdf: 
