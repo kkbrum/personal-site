@@ -16,9 +16,9 @@ interests:
 - Optimization
 last_name: Brumberg
 organizations:
-- name: University of Pennsylvania
-  url: https://statistics.wharton.upenn.edu/
-role: PhD Candidate
+- name: University of Michigan
+  url: https://lsa.umich.edu/stats
+role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,5 +41,6 @@ superuser: true
 title: Katherine Brumberg
 ---
 
-Katherine Brumberg is a PhD candidate in the department of Statistics and Data Science at the Wharton School of the University of Pennsylvania. She expects to graduate in May 2024. She received her bachelor's and master's in Statistics and Data Science from Yale University in 2019. Her research focuses on causal inference, in particular attaining optimal covariate balance in observational studies. She is interested in applying this expertise to advance the social good. She is advised by Professors Paul Rosenbaum and Dylan Small.
+Katherine Brumberg (Morgan) is an assistant professor and 2024 LSA Collegiate Fellow at the University of Michigan. She received her PhD in Statistics and Data Science at the Wharton School of the University of Pennsylvania in 2024. She was very fortunate to be advised by Professors Paul Rosenbaum and Dylan Small. She received her bachelor's and master's in Statistics and Data Science from Yale University in 2019. Her research focuses on causal inference, in particular attaining optimal covariate balance in observational studies. She is interested in applying this expertise to advance the social good, especially in terms of education policy.
+
 {style="text-align: justify;"}

@@ -10,7 +10,7 @@ sections:
 - block: contact
   content:
     contact_links:
-    email: kbrum@wharton.upenn.edu
+    email: kbrum@umich.edu
     subtitle: null
     text: Please feel free to reach out to me via email.
     title: Contact
