@@ -41,6 +41,6 @@ superuser: true
 title: Katherine Brumberg
 ---
 
-Katherine Brumberg (Morgan) is an assistant professor and 2024 LSA Collegiate Fellow at the University of Michigan. She received her PhD in Statistics and Data Science at the Wharton School of the University of Pennsylvania in 2024. She was very fortunate to be advised by Professors Paul Rosenbaum and Dylan Small. She received her bachelor's and master's in Statistics and Data Science from Yale University in 2019. Her research focuses on causal inference, in particular attaining optimal covariate balance in observational studies. She is interested in applying this expertise to advance the social good, especially in terms of education policy.
+Katherine Brumberg (Morgan) is an assistant professor at the University of Michigan. She received her PhD in Statistics and Data Science at the Wharton School of the University of Pennsylvania in 2024. She was very fortunate to be advised by Professors Paul Rosenbaum and Dylan Small. She received her bachelor's and master's in Statistics and Data Science from Yale University in 2019. Her research focuses on causal inference, in particular attaining optimal covariate balance in observational studies. She is interested in applying this expertise to advance the social good, especially in terms of education policy.
 
 {style="text-align: justify;"}
