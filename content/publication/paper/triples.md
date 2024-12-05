@@ -5,7 +5,7 @@ authors:
 - Dylan S. Small
 - Paul R. Rosenbaum
 date: "2024-08-12T00:00:00Z"
-doi: 
+doi: "10.1214/24-AOAS1949""
 featured: false
 image:
 projects: []
