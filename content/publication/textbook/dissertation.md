@@ -1,6 +1,6 @@
 ---
 title: "Novel Stratification and Matching Methods in Observational Studies"
-date: "2024-08-12"
+date: "2024-05-20"
 authors: 
 - admin
 publication_types: ["5"]
