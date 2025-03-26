@@ -4,7 +4,7 @@ authors:
 - admin
 - Dylan S. Small
 - Paul R. Rosenbaum
-date: "2024-08-12T00:00:00Z"
+date: "2024-12-01T00:00:00Z"
 doi: "10.1214/24-AOAS1949"
 featured: false
 image:
@@ -12,7 +12,7 @@ projects: []
 publication: 'Annals of Applied Statistics'
 publication_short: "AOAS"
 publication_types: ["2"]
-publishDate: 
+publishDate: "2024-12-01T00:00:00Z"
 slides: 
 summary: 
 tags:
