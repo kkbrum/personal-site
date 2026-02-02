@@ -17,18 +17,14 @@ header:
 
 #### University of Michigan
 
-* Fall 2024-- STATS 413: Applied Regression Analysis
+* Fall 2025-- STATS 280: Honors Introductory Statistics
+* Fall 2024, Winter 2025-- STATS 413: Applied Regression Analysis
 
 ### Courses taught previously:
 
 #### University of Pennsylvania
 
-* Summer 2023-- Stat 1110: Introductory Statistics (Online)
-{{% staticref "uploads/Summer2023_Stat1110_Syllabus.pdf" "newtab" %}}Syllabus{{% /staticref %}}
-{{% staticref "uploads/Summer2023_Stat1110_Evals.pdf" "newtab" %}}Evaluations{{% /staticref %}}
-* Summer 2022-- Stat 1110: Introductory Statistics (Online)
-{{% staticref "uploads/Summer2022_Stat1110_Syllabus.pdf" "newtab" %}}Syllabus{{% /staticref %}}
-{{% staticref "uploads/Summer2022_Stat1110_Evals.pdf" "newtab" %}}Evaluations{{% /staticref %}}
+* Summer 2022, Summer 2023-- Stat 1110: Introductory Statistics (Online)
 
 ### Courses TA'ed previously:
 

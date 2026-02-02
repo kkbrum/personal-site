@@ -7,6 +7,9 @@ theme: "starter-hugo-academic"
 title: Katherine Brumberg # Website name
 baseURL: 'http://kbrumberg.com' # Website URL
 
+# Google Analytics (legacy support - use params.marketing.analytics.google_analytics instead)
+GoogleAnalytics: ''
+
 ############################
 ## LANGUAGE
 ############################
@@ -33,7 +36,8 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
